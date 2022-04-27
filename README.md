@@ -55,11 +55,14 @@ The first progress submission should address this hierarchy without the data str
 integrated. To limit the scope, each smart device must have at least 3 meaningful methods
 besides constructors, destructors, and display functions. You can have input methods!
 Arrays of Characters vs Strings
+
 Your base and at least one derived class must have dynamic memory supported such as
 arrays of characters for practice. All other use of string data should be represented by the
 STL’s string class.
+
 Creating a Collection of Objects: Second Progress Submission
 There are two data structures you will.
+
 • An Array of linear linked lists (e.g., for the location of the smart devices)
 • A Circular linked list of one type of your smart devices for testing purposes
 • Add one other use of a STL data structure – such as an Array or a Vector
